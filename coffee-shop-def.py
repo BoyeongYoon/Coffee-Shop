@@ -43,6 +43,7 @@ def order():
 		if flavor in ['hazelnut', 'vanilla', 'caramel', 'none']:
 			break
 
+
 	if flavor == 'none':
 		flavor = flavor[:2]
 
