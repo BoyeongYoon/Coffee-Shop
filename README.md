@@ -7,6 +7,4 @@
 <br>
 <br>
 
-![Screen Shot 2022-05-13 at 3 21 31 PM](https://user-images.githubusercontent.com/30683150/168375584-c7ff6955-91a7-40f2-9160-1ba3766cd94d.png)
-
-
+![Screen Shot 2022-05-13 at 3 25 19 PM](https://user-images.githubusercontent.com/30683150/168375950-e15b2675-3e53-4aa2-934f-fc1366487ae8.png)
