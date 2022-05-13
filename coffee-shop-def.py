@@ -43,6 +43,9 @@ def order():
 		if flavor in ['hazelnut', 'vanilla', 'caramel', 'none']:
 			break
 
+	if flavor == 'none':
+		flavor = flavor[:2]
+
 	return size, coffee, flavor
 
 
@@ -70,7 +73,7 @@ def calculate(size, coffee, flavor):
 		'hazelnut': 0.5,
 		'vanilla': 0.5,
 		'caramel': 0.5,
-		'none': 0
+		'no': 0
 
 	}
 
