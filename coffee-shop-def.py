@@ -7,7 +7,7 @@
     : returns size, coffee, flavor
   - calculate(size, coffee, flavor)
   	: returns total_price, tip, total_price_tip
-  - display(total_price, total_price_tip)
+  - display(size, coffee, flavor, total_price, total_price_tip)
   	: prints out what the user ordered and the total price with 15% tip
 """
 
@@ -95,7 +95,7 @@ Displays a summarization what the user ordered and the total cos with a 15% tip
 @input	 	total_price, total_price_tip
 @print out 	what the user ordered and the total price with 15% tip
 """
-def display(total_price, total_price_tip):
+def display(size, coffee, flavor, total_price, total_price_tip):
 	# Display a statement that summarizes what the user ordered
 	print("\t You ordered {}-sized {} with {} flavor ☕.\n".format(size, coffee, flavor))
 
@@ -126,7 +126,7 @@ print("\t What would you like to order today? \n")
 size, coffee, flavor = order()
 print("\n\n")
 total_price, tip, total_price_tip = calculate(size, coffee, flavor)
-display(total_price, total_price_tip)
+display(size, coffee, flavor, total_price, total_price_tip)
 
 
 
