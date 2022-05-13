@@ -4,6 +4,12 @@
 <br>
 <br>
 
+![python-logo-master-v3-TM](https://user-images.githubusercontent.com/30683150/168378713-fa144add-d3cd-435e-8569-63f656811bee.png)
+
+<br>
+<br>
+<br>
+
 ## The Four Raw Codes
  - 🔜 [coffee-shop-class](#): Used _class_, _function_, _dictionary_, _loop_, and _condition_       
  - [coffee-shop-def](https://github.com/BoyeongYoon/Coffee-Shop/blob/main/coffee-shop-def.py): Used _function_, _dictionary_, _loop_, and _condition_  
