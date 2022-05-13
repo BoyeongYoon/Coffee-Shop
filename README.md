@@ -3,8 +3,14 @@
 <br>
 <br>
 <br>
+[using class, dictionary, loop, and condition]()  
+[using function, dictionary, loop, and condition]()  
+[using dictionary, loop, and condition]()  
+[using loop, and condition]()  
+
 <br>
 <br>
 <br>
 
+## Sample Output
 ![Screen Shot 2022-05-13 at 3 25 19 PM](https://user-images.githubusercontent.com/30683150/168375950-e15b2675-3e53-4aa2-934f-fc1366487ae8.png)
