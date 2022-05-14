@@ -77,7 +77,6 @@ def calculate(size, coffee, flavor):
 		'vanilla': 0.5,
 		'caramel': 0.5,
 		'no': 0
-
 	}
 
 	# Calculates the price of the coffee
