@@ -40,7 +40,7 @@ A program that will calculate the cost of a custom cup of coffee at a gourmet co
 1. Ask the user what size cup they want, choosing between small, medium, and large  
 2. Ask the user what kind of coffee they want, choosing between brewed, espresso, and cold brew  
 3. Ask the user what flavoring they want, if any. Choices include hazelnut, vanilla, and caramel  
-4. Calculate the price of the cup using the following values:  
+4. Calculate the price of the cup using the following values:
  - Size:  
    - small: $2  
    - medium: $3  
@@ -53,5 +53,5 @@ A program that will calculate the cost of a custom cup of coffee at a gourmet co
    - None: no additional cost  
    - All other options: 50 cents  
 5. Display a statement that summarizes what the user ordered  
-6. Display the total cost of the cup of coffee as well as the cost with a 15% tip, in phrases that explain the values to the user. Round the cost with tip to two decimal places  
+6. Display the total cost of the cup of coffee as well as the cost with a 15% tip, in phrases that explain the values to the user. Round the cost with tip to two decimal places
  - For example, if the user asks for a medium-sized espresso with hazelnut flavoring, the total should be $4; the total with a tip should be $4.60  
