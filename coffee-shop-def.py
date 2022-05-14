@@ -51,6 +51,8 @@ def order():
 
 
 
+
+
 """
 Calculates the coffee price and rounds the cost with tip to two decimal places
 @input 		size, coffee, flavor
@@ -87,6 +89,8 @@ def calculate(size, coffee, flavor):
 	total_price_tip = round(total_price + tip, 2)
 
 	return total_price, tip, total_price_tip
+
+
 
 
 
