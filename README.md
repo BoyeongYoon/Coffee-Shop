@@ -4,7 +4,9 @@
 <br>
 <br>
 
-![110px-Python-logo-notext svg](https://user-images.githubusercontent.com/30683150/168379057-38fc204b-6c04-4800-93f7-5a1313cc9c4d.png) - [Raw Codes](#the-four-raw-codes)  
+![110px-Python-logo-notext svg](https://user-images.githubusercontent.com/30683150/168379057-38fc204b-6c04-4800-93f7-5a1313cc9c4d.png)  
+
+- [Raw Codes](#the-four-raw-codes)  
 - [Sample Output](#sample-output)  
 - [Description](#description)  
 
