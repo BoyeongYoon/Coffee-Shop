@@ -10,15 +10,15 @@
 <br>
 <br>
 
-[The Four Raw Codes](#the-four-raw-codes)
-2. Sample Output
-3. Description
+[The Four Raw Codes](#the-four-raw-codes)  
+[Sample Output](#sample-output)  
+[Description](#description)  
 
 <br>
 <br>
 <br>
 
-## The Four Raw Codes {#the-four-raw-codes}
+## The Four Raw Codes
  - 🔜 [coffee-shop-class](#): Used _class_, _function_, _dictionary_, _loop_, and _condition_       
  - [coffee-shop-def](https://github.com/BoyeongYoon/Coffee-Shop/blob/main/coffee-shop-def.py): Used _function_, _dictionary_, _loop_, and _condition_  
  - [coffee-shop-hash](https://github.com/BoyeongYoon/Coffee-Shop/blob/main/coffee-shop-hash.py): Used _dictionary_, _loop_, and _condition_  
