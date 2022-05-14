@@ -17,6 +17,7 @@
 
 """ 
 Asks the user what size, coffee, and flavor they want
+If the user order something not in the menu, then the program will keep asking
 @return		size, coffee, flavor
 """
 def order():
