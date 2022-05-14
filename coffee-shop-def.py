@@ -45,7 +45,7 @@ def order():
 
 
 	if flavor == 'none':
-		flavor = flavor[:2]
+		flavor = flavor[:2] # 'none' to 'no', so later can be displayed in the order as 'no flavor'
 
 	return size, coffee, flavor
 
