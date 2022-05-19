@@ -23,7 +23,7 @@ If the user order something not in the menu, then the program will keep asking
 def order():
 	# Asks the user what size cup they want, choosing between small, medium, and large
 	while True:
-		size = input("\t (1) Size? ").lower()
+		size = input("\t (1) Size? ").lower() 		# .lower() --> making the user's input is case insensitive
 
 		if size in ['small', 'medium', 'large']:
 			break
